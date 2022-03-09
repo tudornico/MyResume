@@ -186,6 +186,21 @@
 
         <tr>
             <td> LinkedIn</td>
+            <td>
+                <a href = "https://www.linkedin.com/in/tudor-nicolaescu-b90182214/"> https://www.linkedin.com/in/tudor-nicolaescu-b90182214/</a>
+            </td>
+        </tr>
+        <tr>
+            <td> GitHub</td>
+            <td>
+                <a href = "https://github.com/tudornico"> https://github.com/tudornico</a>
+            </td>
+        </tr>
+        <tr>
+            <td> Stack Overflow</td>
+            <td>
+                <a href ="https://stackoverflow.com/users/15393795/tudor-nicolaescu"> https://stackoverflow.com/users/15393795/tudor-nicolaescu</a>
+            </td>
         </tr>
     </table>
 
