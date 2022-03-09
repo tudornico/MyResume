@@ -1,0 +1,193 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Nicolaescu Tudor</title>
+</head>
+<body>
+
+
+<style>
+    body{
+        /*background-image: url("background.png");*/
+    }
+    p{
+        margin-left: 200px;
+        margin-right: 100px;
+        margin-top: 40px;
+
+    }
+    h1{
+        margin-left : 150px;
+        margin-right: 100px;
+    }
+    img{
+        margin-left : 150px;
+        margin-right : 100px;
+    }
+
+    ul{
+        margin-left : 150px;
+        margin-right : 150px;
+    }
+    td{
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse:collapse;
+        text-align: center;
+    }
+    table{
+        margin-left : 180px;
+        column-width: 200px;
+        column-gap : 20px;
+        width: 850px;
+    }
+    li{
+        font-size:20px;
+        margin-left : 30px;
+    }
+    div{
+        border :  solid black 2px;
+    }
+</style>
+
+<link rel="stylesheet" href="PhotoAndDescription.css">
+
+
+
+
+<img src="logo_cs.png"  width = "150" height="150" alt="UniversityLogo" class = "UniPhoto">
+<img  src="Selfie.jpg" width="250" height="250" alt="A Picture of Me" class = "MyPhoto" >
+
+<div>
+<h1 class = "DescriptionTitle" style="text-decoration: underline" >Personal Profile</h1>
+
+<p>
+<big>My Name is Tudor Nicolaescu I am currently a Student at Babes-Bolyai University in Cluj-Napoca pursuing a bachelor degree in Computer Science.
+    I am a committed researcher with excellent communication skills and team work  abilities .
+    I am dedicated in my work and also eager to help others in order to achieve the best possible outcome in our project.
+    Besides programming my hobbies are playing guitar and travelling and I hope i can combine the coding experience with these.
+</big>
+</p>
+</div>
+
+<h1 class = "Achievments" style="text-decoration: underline" > Awards and Achievments</h1>
+
+
+<p class = AchDescp>
+    <ul>
+    <li>National Olimpiade of Physics 2018 in Breaza - Bronze Medal</li>
+    <li>Candidate for the International Olimpiade of Astronomy and Astrophysics 2016 -4th place </li>
+    <li>National Olimpiade of Astronomy and Astrophysics from 2016 - 2019 - Silver and Broze Medal</li>
+    </ul>
+</p>
+
+<div>
+<h1 class="Education" style = "text-decoration: underline"> Previous Education</h1>
+
+<p>
+<h1 class = "GheorgheSincai" style = "text-decoration: underline"> Gheorghe Sincai National College</h1>
+<p class = "Highschool">
+    I have studying highschool there in my home town Baia Mare and during highschool I took part in some extra curicular
+    activities such as in 2019 I was part of the prom organiser team and also in 2020 I was part of the robotics team where we got
+    to the national competiton in the First tech Challange.
+    My Final 12th grade exam grades are : 95% Mathematics , 97% Physics , 82% Romanian
+</p>
+
+
+<h1 class="Babes-Bolyai" style = "text-decoration:underline"> Babes-Bolyai University </h1>
+
+<p class = "UniDesc">
+    I first entered the University in the year of 2020 and I am currently attending the computer science in german programe.
+    I have developed really well during Univeristy and I hope I can do so further with my carrer.
+</p>
+
+
+</div>
+<h1 class = "CodeLanguages" style="text-decoration: underline"> Code Languages</h1>
+<p class = "CodeDescription">
+<table class = "CodeTable">
+
+    <tr>
+        <th> Code Language</th>
+        <th> Experience Level</th>
+        <th> Project</th>
+        <th> Descprition</th>
+    </tr>
+    <tr>
+        <td> C++</td>
+        <td> advanced</td>
+        <td> <a href = "https://github.com/tudornico/Labor-6"> Project for C++</a></td>
+        <td> A QT created GUI written in C++ that develops a cars sales business</td>
+    </tr>
+    <tr>
+        <td> Java</td>
+        <td> advanced</td>
+        <td> <a href = "https://github.com/tudornico/Labor5java"> Project for Java</a></td>
+        <td> A project that represents a University written on databases hosted locally</td>
+    </tr>
+    <tr>
+        <td> C# </td>
+        <td> advanced</td>
+        <td> <a href = "https://github.com/tudornico/InternshipTest"> Project for C#</a></td>
+        <td> A C# project that has a Christmas theme where we help Santa</td>
+    </tr>
+
+    <tr>
+        <td> Python</td>
+        <td> advanced </td>
+        <td> <a href = "https://github.com/tudornico/gui_hotel">Project for Python</a></td>
+        <td> A GUI written in tkinter that helps a hotel remeber their guest and reservations</td>
+
+    </tr>
+
+</table>
+
+
+<div>
+<h1 class="Languages" style = "text-decoration: underline"> Languages </h1>
+<p class = "LanguagesDesc">
+<ul>
+    <li> Romanian - native</li>
+    <li> English - advanced with a Cambridge exam of CAE grade B</li>
+    <li> German - advanced with a OSD B2 exam and also practice during University</li>
+</ul>
+
+</p>
+</div>
+
+
+
+
+<h1 class = "Contacts" style="text-decoration: underline" > Contacts and Links</h1>
+
+
+    <table class = "ContactTable" >
+
+        <tr>
+            <th>Contact Method</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>tudorelnico@gmail.com</td>
+        </tr>
+        <tr>
+            <td>FaceBook</td>
+            <td>
+                <a href = "https://www.facebook.com/profile.php?id=100008164870975"> https://www.facebook.com/profile.php?id=100008164870975</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Phone Number</td>
+            <td> 0770532697</td>
+        </tr>
+
+        <tr>
+            <td> LinkedIn</td>
+        </tr>
+    </table>
+
+</body>
+</html>

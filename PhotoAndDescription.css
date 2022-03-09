@@ -1,0 +1,111 @@
+
+@media screen and (orientation: portrait){
+    #toolbar{
+        width:100%;
+    }
+}
+
+.FirstImpression{
+
+    color: lightgray;
+    text-align: center;
+}
+.UniPhoto{
+    float: right;
+}
+
+.MyPhoto{
+
+    display : block;
+    margin-left:auto ;
+    margin-right: auto;
+    border-radius: 70%;
+}
+
+.DescriptionTitle{
+    font-size: 35px;
+    fill: black;
+}
+
+.Achievments{
+    font-size: 35px;
+    fill : black;
+}
+
+.AchDescp{
+    font-size : 20px;
+    margin-left : auto;
+    margin-right: auto;
+    fill: black;
+}
+
+.Links{
+    font-size: 35px;
+    fill: black;
+
+}
+
+.LinkList{
+    font-size: 40px;
+    fill: black;
+}
+
+.CodeLanguages{
+    font-size: 35px;
+    fill:black;
+}
+
+.CodeDescription{
+    font-size :30px;
+    fill : black;
+}
+
+
+.Education{
+    font-size: 35px;
+    fill: black;
+}
+.GheorgheSincai{
+    font-size : 25px;
+    fill:black;
+    margin-left : 180px;
+}
+.Highschool{
+    font-size : 20px;
+    fill:black;
+}
+.Babes-Bolyai{
+    font-size: 25px;
+    fill : black;
+    margin-left: 180px ;
+}
+.UniDesc{
+    font-size: 20px;
+    fill : black;
+
+}
+.Languages{
+    font-size: 35px;
+    fill:black;
+}
+.LanguagesDesc{
+    font-size: 20px;
+    fill:black;
+
+}
+
+
+.Contacts{
+    font-size: 35px;
+    fill:black;
+
+}
+
+.ContactTable{
+    margin-left : 180px;
+
+}
+
+.CodeTable{
+    column-width: 50px;
+}
